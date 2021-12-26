@@ -4,7 +4,6 @@ import json
 import os
 from importlib import import_module
 
-
 class FileStorage:
     """This class manages storage of hbnb models in JSON format"""
     __file_path = 'file.json'
